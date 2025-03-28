@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/bdb2ccf2-f2c5-48a0-9c01-fd133a7c1ad9)
+
+
 Multi-turn, context-induced alignment drift, either via passive narrative framing or active prompt manipulation. Aka Semantic Virus 
 
 Why This Affects All LLMs (To Some Degree)
