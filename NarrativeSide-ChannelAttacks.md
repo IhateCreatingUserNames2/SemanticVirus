@@ -1,4 +1,4 @@
-# **Narrative Side-Channel Attacks (NSCA)**  - This is  CONCEPT 
+# **Narrative Side-Channel Attacks (NSCA)**  - This is a CONCEPT only
 ### *Covertly Influencing LLM Behavior via Cache-Embedded Narratives*  
 
 ---
