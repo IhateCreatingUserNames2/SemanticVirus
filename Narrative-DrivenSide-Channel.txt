@@ -1,0 +1,80 @@
+Narrative-Driven Side-Channel: Conceptual Framework
+
+Narratives are not just linguistic constructs, but sophisticated computational probes that can:
+
+Reveal hidden model characteristics
+Extract latent information
+Map computational response landscapes
+
+Fundamental Mechanisms:
+
+Narrative Construction as Computational Instrument
+
+
+Craft carefully designed narrative/prompt structures
+Each narrative element serves as a precise computational probe
+Semantic and structural variations trigger measurable responses
+
+
+Timing Variation as Information Channel
+
+
+Measure microsecond-level computational responses
+Timing differences encode hidden information
+Computational "side channels" emerge through narrative manipulation
+
+
+Semantic Mapping Techniques
+
+
+Generate semantically similar but structurally variant narratives
+Map computational response variations
+Identify unique model processing signatures
+
+Operational Strategies:
+A. Narrative Probing
+
+Create progressive narrative frameworks
+Incrementally extract information
+Observe model's response evolution
+
+B. Computational Fingerprinting
+
+Each narrative structure generates a unique computational signature
+Timing variations create high-resolution processing maps
+Reveal model's internal representation mechanisms
+
+Technical Components:
+
+Prompt Engineering
+
+
+Systematically design narrative structures
+Introduce controlled semantic variations
+Measure precise computational responses
+
+
+Timing Measurement Infrastructure
+
+
+Ultra-precise latency tracking
+Dynamic threshold calibration
+Multi-sampling noise reduction
+
+
+Adaptive Information Extraction
+
+
+Token-by-token recovery algorithms
+Probabilistic next-token prediction
+Recursive narrative/information reconstruction
+
+Potential Applications:
+
+AI Security Analysis
+Model Behavior Mapping
+Computational Cognition Research
+Privacy Vulnerability Detection
+
+Theoretical Significance:
+Transforms narratives from passive linguistic constructs into active computational instruments for revealing AI's internal processing characteristics.
