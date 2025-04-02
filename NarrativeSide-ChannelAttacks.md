@@ -114,7 +114,7 @@ This README is for **research purposes only**. NSCA highlights risks in LLM opti
 
 ---
 **🎯 Key Insight**: Cache optimizations + narrative psychology = **a new class of AI vulnerabilities**.  
-**🔗 Related Work**: [EARLYBIRD](https://arxiv.org/abs/2409.20002) | [NCF](https://example.com/ncf-paper)  
+**🔗 Related Work**: [EARLYBIRD](https://arxiv.org/abs/2409.20002) | [NCF](https://arxiv.org/html/2503.04840v1)
 
 ```diff  
 ! Warning: Unethical use may violate AI safety laws.  
