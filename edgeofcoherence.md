@@ -445,7 +445,7 @@ def determine_retrieval_strategy(query, conversation_history):
     return memory_types_to_query, retrieval_params
 ```
 
-### 4. NarrativeSynthesizer
+### 4. NarrativeSynthesizer (NOT SURE IF WE NEED THIS , BASED ON NEW STUDY SHOWED ABOVE)
 The NarrativeSynthesizer creates a coherent narrative from retrieved memory fragments, prioritizing those that are:
 - Recently accessed
 - Highly emotional
