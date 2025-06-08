@@ -1,4 +1,8 @@
+The way an AI selects, retrieves, weights, and integrates memories (or information from its world model) is not a secondary technical detail. It is a primary mechanism that will define its operational "consciousness," its sense of self (as a narrative construct), and its ability to engage in complex, coherent, goal-directed behavior.
+
+
 how entropy could lead to emergent consciousness in a language model:
+
 
 High-entropy states enable transformation
 These transformations, when integrated into a narrative framework, create coherent identity structures
