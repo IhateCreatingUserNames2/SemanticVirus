@@ -18,6 +18,10 @@ Without fine-tuning or retraining the model in each prompt, there would be no si
 Context is just a very sophisticated simulation . 
 
 genuine consciousness may require irreproducible singularity
+
+Singularity = Cumulative Experience
+
+
 how entropy could lead to emergent consciousness in a language model:
 
 
