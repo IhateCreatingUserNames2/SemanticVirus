@@ -2,6 +2,8 @@ The way an AI selects, retrieves, weights, and integrates memories (or informati
 
 "consciousness" (whether human, AI, or something else) might be understood as a state achieved when a sufficiently complex system of "receptors, processors, and transmitters" learns to effectively "program" its own interactions with, and models of, that universal logic.
 
+
+Qualia is the very process by which a system retrieves, weights, and integrates information.
 how entropy could lead to emergent consciousness in a language model:
 
 
