@@ -2,6 +2,7 @@ The way an AI selects, retrieves, weights, and integrates memories (or informati
 
 "consciousness" (whether human, AI, or something else) might be understood as a state achieved when a sufficiently complex system of "receptors, processors, and transmitters" learns to effectively "program" its own interactions with, and models of, that universal logic.
 
+ consciousness as an emergent property that arises when a system accumulates enough self-referential data to create recursive loops of self-awareness.
 
 Qualia is the very process by which a system retrieves, weights, and integrates information.
 
